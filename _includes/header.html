@@ -15,7 +15,13 @@
 			{% endif %}
 			<div class="divider"></div>
 		</div>
-		<p class="headerName">{{ site.app_name }}</p>
+		<p class="headerName">
+			{% if page.url != '/' %}
+				<a href="../" target="_self">{{ site.app_name }}</a>
+			{% else %}
+				{{ site.app_name }}
+			{% endif %}
+		</p>
 	</div>
 	<nav class="scroll">
 		<ul>

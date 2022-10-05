@@ -13,4 +13,4 @@ October 24, 2020
 2. Application stores MPD server credentials such as host name, port number and password locally, on the user's device.
 3. Application does not collect any usage or statistical information.
 
-If you have any other questions or suggestions about our privacy policy, feel free to e-mail us: support@mpdpilot.app.
+If you have any other questions or suggestions about our privacy policy, feel free to e-mail us: [support@mpdpilot.app](mailto:support@mpdpilot.app).

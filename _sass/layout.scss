@@ -624,6 +624,7 @@ footer {
 }
 
 .footerIcons {
+    padding-top: 70px;
 	padding-bottom: 70px;
 	display: flex;
 	flex: 0 0 100%;
@@ -676,6 +677,7 @@ footer {
 	}
 	
 	.footerIcons {
+	    padding-top: 70px;
 		padding-bottom: 70px;
 		display: flex;
 	}
@@ -684,4 +686,8 @@ footer {
 
 .hidden {
 	display: none;
+}
+
+.headerName > a {
+    color: #000;
 }

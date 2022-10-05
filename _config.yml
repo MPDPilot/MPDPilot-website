@@ -36,24 +36,24 @@ youtube_username                          :
 features                                  :
 
   - title                                 : User-friendly UI
-    description                           : Nice and simple interface, supporting light and dark mode
-    fontawesome_icon_name                 : mobile
+    description                           : Nice and simple interface, supporting light and dark modes
+    fontawesome_icon_name                 : magic
 
   - title                                 : MPD server state
     description                           : Manage playback, volume and shuffle / repeat modes
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : play
 
   - title                                 : Queue
     description                           : Add, move and remove items from the current playback queue
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : list
 
-  - title                                 : Library
+  - title                                 : Music Library
     description                           : Browse files library and enqueue songs, folders or stored playlists
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : compact-disc
 
   - title                                 : Outputs
     description                           : Switch on and off your MPD outputs
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : volume-up
 
 
 # Theme Settings
