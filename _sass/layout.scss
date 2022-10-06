@@ -198,7 +198,9 @@ nav > ul li {
 		flex-direction: column;
 	}
 
-	nav > ul li,li:first-child,li:last-child {
+	nav > ul li,
+	nav > ul li:first-child,
+	nav > ul li:last-child {
 		padding-left: 25px !important;
 		padding-top: 10px !important;
 		padding-bottom: 10px !important;
