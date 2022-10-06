@@ -8,6 +8,4 @@ include_in_header: true
 
 This application is developed by two passionate developers in their free time.
 
-We use MPD Pilot ourselves, so we can assure you we are as excited for the upcoming features as our users :) 
-
-If you would like to support our contributions, you can [donate any amount using PayPal](https://www.paypal.com/donate/?business=S9WYJD7XAE3N6&no_recurring=0&item_name=MPD+Pilot+development+donation%0A&currency_code=USD).
+If you want to motivate us to further development, consider [donation of any amount using PayPal](https://www.paypal.com/donate/?business=S9WYJD7XAE3N6&no_recurring=0&item_name=MPD+Pilot+development+donation%0A&currency_code=USD).
