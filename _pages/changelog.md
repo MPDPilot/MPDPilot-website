@@ -5,7 +5,15 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 1.2.0 `latest`
+## Release 2.0.0 `latest`
+**Nov 22, 2022**
+
+- Rebuild most of the application UI
+- Local playback of MPD output audio stream (on speakers, headphones, AirPlay devices, Bluetooth audio devices)
+- Displaying track's quality info (sampling rate, bit-rate, format info)
+- Countless bug fixes and stability improvements
+
+## Release 1.2.0
 **Dec 7, 2021**
 
 - Ability to refresh the library and check for the latest files on the server
