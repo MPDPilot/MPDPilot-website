@@ -5,7 +5,12 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.0.0 `latest`
+## Release 2.0.1 `latest`
+**Dec 3, 2022**
+
+Bug fixes and stability improvements.
+
+## Release 2.0.0
 **Nov 22, 2022**
 
 - Rebuild most of the application UI
