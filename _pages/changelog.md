@@ -5,7 +5,13 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.0.1 `latest`
+## Release 2.1.0 `latest`
+**Jan 1, 2023**
+
+Added local playback buffer size control.
+Bunch of bug fixes and performance improvements.
+
+## Release 2.0.1
 **Dec 3, 2022**
 
 Bug fixes and stability improvements.
