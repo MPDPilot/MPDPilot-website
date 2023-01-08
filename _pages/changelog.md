@@ -5,7 +5,15 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.1.0 `latest`
+## Release 2.2.0 `latest`
+**Jan 8, 2023**
+
+- Redesigned Settings and Outputs screens
+- Ability to enqueue custom stream URL
+- Less network transfer required for status updates, due to implemented connection idling
+- Confirmation prompt before replacing the whole queue
+
+## Release 2.1.0
 **Jan 1, 2023**
 
 Added local playback buffer size control.
