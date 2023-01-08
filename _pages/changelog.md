@@ -6,7 +6,7 @@ include_in_header: true
 # Change Log
 
 ## Release 2.2.0 `latest`
-**Jan 9, 2023**
+**Jan 8, 2023**
 
 - Redesigned Settings and Outputs screens
 - Ability to enqueue custom stream URL
