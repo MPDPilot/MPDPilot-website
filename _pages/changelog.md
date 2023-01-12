@@ -5,7 +5,12 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.2.0 `latest`
+## Release 2.2.1 `latest`
+**Jan 11, 2023**
+
+Fixed issue with swiping to the intermediate screen.
+
+## Release 2.2.0
 **Jan 8, 2023**
 
 - Redesigned Settings and Outputs screens
