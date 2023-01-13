@@ -5,10 +5,15 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.2.1 `latest`
+## Release 2.2.2 `latest`
+**Jan 13, 2023**
+
+- Fixed issue with drag&drop moving tracks in the Queue screen.
+
+## Release 2.2.1
 **Jan 11, 2023**
 
-Fixed issue with swiping to the intermediate screen.
+- Fixed issue with swiping to the intermediate screen
 
 ## Release 2.2.0
 **Jan 8, 2023**
@@ -21,13 +26,13 @@ Fixed issue with swiping to the intermediate screen.
 ## Release 2.1.0
 **Jan 1, 2023**
 
-Added local playback buffer size control.
-Bunch of bug fixes and performance improvements.
+- Added local playback buffer size control
+- Bunch of bug fixes and performance improvements
 
 ## Release 2.0.1
 **Dec 3, 2022**
 
-Bug fixes and stability improvements.
+- Bug fixes and stability improvements.
 
 ## Release 2.0.0
 **Nov 22, 2022**
@@ -48,8 +53,7 @@ Bug fixes and stability improvements.
 ## Release 1.1.1
 **Apr 10, 2021**
 
-Bug fixes and stability improvements.
-
+- Bug fixes and stability improvements.
 
 ## Release 1.1.0
 **Apr 4, 2021**
@@ -64,24 +68,24 @@ New features for the library screen:
 ## Release 1.0.4
 **Jan 28, 2021**
 
-Bug fixes and stability improvements.
+- Bug fixes and stability improvements.
 
 ## Release 1.0.3
 **Nov 30, 2020**
 
-Bug fixes and stability improvements.
+- Bug fixes and stability improvements.
 
 ## Release 1.0.2
 **Nov 23, 2020**
 
-Bug fixes and stability improvements.
+- Bug fixes and stability improvements.
 
 ## Release 1.0.1
 **Oct 25, 2020**
 
-Bug fixes and stability improvements.
+- Bug fixes and stability improvements.
 
 ## Release 1.0.0 `initial release`
 **Oct 24, 2020**
 
-First version of the app published in App Store.
+- First version of the app published in App Store.
