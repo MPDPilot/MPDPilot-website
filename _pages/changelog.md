@@ -9,8 +9,8 @@ include_in_header: true
 **Jun 5, 2023**
 
 - Improved player screen accessibility 
-- Fix issue with adding folders to the queue 
-- Fix issue with song info not fetched immediately after connection restart
+- Fixed issue with adding folders to the queue 
+- Fixed issue with song info not available after connection restart
 
 ## Release 2.2.2
 **Jan 13, 2023**
