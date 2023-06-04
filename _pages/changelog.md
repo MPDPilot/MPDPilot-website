@@ -5,7 +5,14 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.2.2 `latest`
+## Release 2.3.0 `latest`
+**Jun 5, 2023**
+
+- Improved player screen accessibility 
+- Fix issue with adding folders to the queue 
+- Fix issue with song info not fetched immediately after connection restart
+
+## Release 2.2.2
 **Jan 13, 2023**
 
 - Fixed issue with drag&drop moving tracks in the Queue screen.
