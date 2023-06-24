@@ -43,6 +43,10 @@ features                                  :
     description                           : Manage playback, volume and shuffle / repeat modes
     fontawesome_icon_name                 : play
 
+  - title                                 : Local playback
+    description                           : Play streaming MPD outputs on your device within the app
+    fontawesome_icon_name                 : headphones
+
   - title                                 : Queue
     description                           : Add, move and remove items from the current playback queue
     fontawesome_icon_name                 : list
