@@ -25,32 +25,32 @@ The information we collect is used solely for the purpose of improving our app a
 
 - User Experience Enhancement: The collected information allows us to understand how users interact with our app, including the features they use most frequently or encounter difficulties with. This enables us to make informed decisions to enhance the user interface and overall user experience.
 
-## 3. Data Sharing and Disclosure
-
-We do not sell, rent, or trade any of the information collected through our app, including the app logs. We may share the collected information in an aggregated and anonymized form with third parties for analytical and statistical purposes.
-
-## 4. Data Retention
-
-We retain the collected information, including the app logs, for as long as necessary to fulfill the purposes outlined in this Privacy Policy. Once the information is no longer required, we will securely delete or anonymize it.
-
-## 5. Security
-
-We take reasonable measures to protect the collected information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no security measures are foolproof, and we cannot guarantee the absolute security of the information we collect.
-
-## 6. Children's Privacy
-
-Our app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you believe we have inadvertently collected information from a child under 13, please contact us, and we will take steps to delete the information as soon as possible.
-
-## 7. Personal Data
+## 3. Personal Data
 
 We want to emphasize that our app does not collect any private or personal data, including the following:
 
-- Titles of songs you listen to
-- Contents of your MPD queue and library
 - MPD server credentials (host names, ports, passwords)
+- Contents of your MPD queue and library
+- Titles of songs you listen to
 - Local playback stream URLs
 
 We respect your privacy and are committed to ensuring that no private or personal data is collected through our app.
+
+## 4. Data Sharing and Disclosure
+
+We do not sell, rent, or trade any of the information collected through our app, including the app logs. We may share the collected information in an aggregated and anonymized form with third parties for analytical and statistical purposes.
+
+## 5. Data Retention
+
+We retain the collected information, including the app logs, for as long as necessary to fulfill the purposes outlined in this Privacy Policy. Once the information is no longer required, we will securely delete or anonymize it.
+
+## 6. Security
+
+We take reasonable measures to protect the collected information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no security measures are foolproof, and we cannot guarantee the absolute security of the information we collect.
+
+## 7. Children's Privacy
+
+Our app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you believe we have inadvertently collected information from a child under 13, please contact us, and we will take steps to delete the information as soon as possible.
 
 ## 8. Changes to this Privacy Policy
 
