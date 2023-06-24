@@ -62,8 +62,3 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 By continuing to use our iOS app, you acknowledge that you have read and understood this Privacy Policy and consent to the collection, use, and disclosure of your information as described herein.
 
-<!-- 1. Application does not collect any user's personal data or information.
-2. Application stores MPD server credentials such as host name, port number and password locally, on the user's device.
-3. Application does not collect any usage or statistical information. -->
-
-<!-- If you have any other questions or suggestions about our privacy policy, feel free to e-mail us: [support@mpdpilot.app](mailto:support@mpdpilot.app). -->
