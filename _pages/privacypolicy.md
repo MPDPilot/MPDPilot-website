@@ -48,11 +48,7 @@ We retain the collected information, including the app logs, for as long as nece
 
 We take reasonable measures to protect the collected information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no security measures are foolproof, and we cannot guarantee the absolute security of the information we collect.
 
-## 7. Children's Privacy
-
-Our app is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you believe we have inadvertently collected information from a child under 13, please contact us, and we will take steps to delete the information as soon as possible.
-
-## 8. Changes to this Privacy Policy
+## 7. Changes to this Privacy Policy
 
 We reserve the right to update or modify this Privacy Policy at any time. Any changes to this policy will be effective immediately upon posting the updated Privacy Policy in our app. Please review this Privacy Policy periodically for any updates.
 
