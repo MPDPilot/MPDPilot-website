@@ -27,7 +27,7 @@ The information we collect is used solely for the purpose of improving our app a
 
 ## 3. Personal Data
 
-We want to emphasize that our app does not collect any private or personal data, including the following:
+We want to emphasize that our app does NOT collect any private or personal data, including the following:
 
 - MPD server credentials (host names, ports, passwords)
 - Contents of your MPD queue and library
@@ -38,11 +38,11 @@ We respect your privacy and are committed to ensuring that no private or persona
 
 ## 4. Data Sharing and Disclosure
 
-We do not sell, rent, or trade any of the information collected through our app, including the app logs. We may share the collected information in an aggregated and anonymized form with third parties for analytical and statistical purposes.
+We do not sell, rent, or trade any of the information collected through our app, including the app logs. We store the collected information in an aggregated and anonymized form on the virtual private server, for the internal use only.
 
 ## 5. Data Retention
 
-We retain the collected information, including the app logs, for as long as necessary to fulfill the purposes outlined in this Privacy Policy. Once the information is no longer required, we will securely delete or anonymize it.
+We retain the collected information, including the app logs, for as long as necessary to fulfill the purposes outlined in this Privacy Policy. Once the information is no longer required, we will securely delete it.
 
 ## 6. Security
 
