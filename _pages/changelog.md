@@ -5,7 +5,16 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.3.0 `latest`
+## Release 2.4.0 `latest`
+**Jul 2, 2023**
+
+- Fixed a few bugs around connection state management
+- Improved performance of the library view, resulting with better handling of large collections
+- Improved UX for missing server's permissions, when MPD password is required
+- App navigation improvements
+- Support for local playback of the OPUS streams
+
+## Release 2.3.0
 **Jun 5, 2023**
 
 - Improved player screen accessibility 
