@@ -5,7 +5,12 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.4.0 `latest`
+## Release 2.4.1 `latest`
+**Jul 11, 2023**
+
+- Fixed incorrect behaviour of lock screen controls (prev & next) during local playback
+
+## Release 2.4.0
 **Jul 2, 2023**
 
 - Fixed a few bugs around connection state management
