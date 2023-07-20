@@ -5,7 +5,16 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.4.1 `latest`
+## Release 2.4.2 `latest`
+**Jul 20, 2023**
+
+Bunch of bug fixes:
+- Resolved issue when trying to enqueue large folders
+- Fixed incorrect items being highlighted on the queue screen
+- Improvements in local playback control
+- Fixed wrong DB update status indicator
+
+## Release 2.4.1
 **Jul 11, 2023**
 
 - Fixed incorrect behaviour of lock screen controls (prev & next) during local playback
