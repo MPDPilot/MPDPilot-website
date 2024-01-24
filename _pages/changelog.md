@@ -13,6 +13,7 @@ include_in_header: true
 - Ability to define multiple local playback stream URLs (with various bitrate and audio quality)
 - Improved compatibility with Mopidy server
 - Local playback: fixed crashes when playing FLAC streams
+- Fixed navigation crash on iOS 17
 - Numerous bug fixes and stability improvements
 
 ## Release 2.4.2
