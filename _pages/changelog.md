@@ -5,7 +5,18 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 2.4.2 `latest`
+## Release 3.0.0 `latest`
+**Jan 25, 2024**
+
+- Added support for multiple MPD server connections
+- Automatic discovery of local MPD instances using Bonjour/Zeroconf protocol
+- Ability to define multiple local playback stream URLs (with various bitrate and audio quality)
+- Improved compatibility with Mopidy server
+- Local playback: fixed crashes when playing FLAC streams
+- Fixed navigation crash on iOS 17
+- Numerous bug fixes and stability improvements
+
+## Release 2.4.2
 **Jul 20, 2023**
 
 Bunch of bug fixes:
