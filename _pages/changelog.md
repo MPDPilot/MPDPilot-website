@@ -5,7 +5,13 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.0.0 `latest`
+## Release 3.0.1 `latest`
+**Feb 6, 2024**
+
+- Guess song artist and album names from the folder structure, if the tags are not available
+- Added keyboard toolbar when editing form fields
+
+## Release 3.0.0
 **Jan 25, 2024**
 
 - Added support for multiple MPD server connections
