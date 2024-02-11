@@ -5,7 +5,12 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.0.1 `latest`
+## Release 3.0.2 `latest`
+**Feb 10, 2024**
+
+Bug fixes and stability improvements.
+
+## Release 3.0.1
 **Feb 6, 2024**
 
 - Guess song artist and album names from the folder structure, if the tags are not available
