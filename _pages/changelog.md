@@ -5,7 +5,12 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.0.2 `latest`
+## Release 3.0.3 `latest`
+**Feb 17, 2024**
+
+Bug fixes and stability improvements.
+
+## Release 3.0.2 
 **Feb 10, 2024**
 
 Bug fixes and stability improvements.
