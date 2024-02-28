@@ -6,14 +6,14 @@ include_in_header: true
 # Change Log
 
 ## Release 3.1.0 `latest`
-**Feb 25, 2024**
+**Feb 29, 2024**
 
 - Searching songs in the MPD database
 - Experimental support for iPad
+- Library view improvements (pull to refresh, re-worked updating db view)
 - Fast seek by 10s forwards and backwards
-- Display currently playing song in now playing info during local playback
+- Display currently playing song in now playing info (on local playback only)
 - Fixed handling of folder and song names with double quotes
-- Pull to refresh library folder
 
 ## Release 3.0.3
 **Feb 17, 2024**
