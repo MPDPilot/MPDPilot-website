@@ -8,7 +8,7 @@ include_in_header: true
 ## Release 3.1.0 `latest`
 **Feb 29, 2024**
 
-- Searching songs in the MPD database
+- Song search in the MPD database
 - Experimental support for iPad
 - Library view improvements (pull to refresh, re-worked updating db view)
 - Fast seek by 10s forwards and backwards
