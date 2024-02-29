@@ -28,26 +28,30 @@
             {% include header.html %}
             <article class="page markdown-body">
 
-                <h2>iPhone screenshots</h2>
+                <div id="screenshots">
 
-                <div id="iphone_gallery" class="gallery-block">
-                    {% for image in page.iphone_images %}
-                    <a href="/assets/screenshots/{{ image.path }}" data-pswp-width="1290" data-pswp-height="2796"
-                        target="_blank">
-                        <img src="/assets/screenshots/{{ image.thumb }}" alt="{{ image.title}}" />
-                    </a>
-                    {% endfor %}
-                </div>
+                    <h2>iPhone screenshots</h2>
+                    <div class="gallery-block">
 
-                <h2>iPad screenshots</h2>
+                        {% for image in page.iphone_images %}
+                        <a href="/assets/screenshots/{{ image.path }}" data-pswp-width="1290" data-pswp-height="2796"
+                            target="_blank">
+                            <img src="/assets/screenshots/{{ image.thumb }}" alt="{{ image.title}}" />
+                        </a>
+                        {% endfor %}
+                    </div>
 
-                <div id="ipad_gallery" class="gallery-block">
-                    {% for image in page.ipad_images %}
-                    <a href="/assets/screenshots/{{ image.path }}" data-pswp-width="2048" data-pswp-height="2732"
-                        target="_blank">
-                        <img src="/assets/screenshots/{{ image.thumb }}" alt="{{ image.title}}" />
-                    </a>
-                    {% endfor %}
+
+                    <h2>iPad screenshots</h2>
+                    <div class="gallery-block">
+
+                        {% for image in page.ipad_images %}
+                        <a href="/assets/screenshots/{{ image.path }}" data-pswp-width="2048" data-pswp-height="2732"
+                            target="_blank">
+                            <img src="/assets/screenshots/{{ image.thumb }}" alt="{{ image.title}}" />
+                        </a>
+                        {% endfor %}
+                    </div>
                 </div>
 
             </article>
@@ -55,27 +59,17 @@
     </div>
 
     <script type="text/javascript">
-        var iPhoneLightbox = new PhotoSwipeLightbox({
-            gallery: '#iphone_gallery',
+        var lightbox = new PhotoSwipeLightbox({
+            gallery: '#screenshots',
             children: 'a',
             showHideAnimationType: 'fade',
+            bgOpacity: 0.95,
             pswpModule: PhotoSwipe
         });
-        var iPhoneCaptionPlugin = new PhotoSwipeDynamicCaption(iPhoneLightbox, {
+        var captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
             type: 'auto',
         });
-        iPhoneLightbox.init();
-
-        var iPadLightbox = new PhotoSwipeLightbox({
-            gallery: '#ipad_gallery',
-            children: 'a',
-            showHideAnimationType: 'fade',
-            pswpModule: PhotoSwipe
-        });
-        var iPadCaptionPlugin = new PhotoSwipeDynamicCaption(iPadLightbox, {
-            type: 'auto',
-        });
-        iPadLightbox.init();
+        lightbox.init();
     </script>
 
 </body>
