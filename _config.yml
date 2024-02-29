@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/img/mpdpilot.jpg                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : MPDPilot                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Friendly MPD client for iOS.
+app_description                           : Friendly MPD client for iPhone and iPad
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : MPD server state
-    description                           : Manage playback, volume and shuffle / repeat modes
+    description                           : Manage playback, outputs, volume and shuffle & repeat modes
     fontawesome_icon_name                 : play
 
   - title                                 : Local playback
@@ -55,9 +55,9 @@ features                                  :
     description                           : Browse files library and enqueue songs, folders or stored playlists
     fontawesome_icon_name                 : compact-disc
 
-  - title                                 : Outputs
-    description                           : Switch on and off your MPD outputs
-    fontawesome_icon_name                 : volume-up
+  - title                                 : Search
+    description                           : Find songs in your MPD collection
+    fontawesome_icon_name                 : search
 
 
 # Theme Settings
