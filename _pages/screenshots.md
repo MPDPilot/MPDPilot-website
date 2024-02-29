@@ -23,7 +23,7 @@ iphone_images:
     title: "Connections list screen"
   - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.59.34.jpg"
     thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.59.34.jpg"
-    title: "Connection details"
+    title: "Connection configuration"
   - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.42.22.jpg"
     thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.42.22.jpg"
     title: "Local playback stream configuration"
