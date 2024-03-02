@@ -68,7 +68,7 @@ features                                  :
     fontawesome_icon_name                 : network-wired
 
   - title                                 : Use on iPhone and iPad
-    description                           : The app supports both iPhone and iPad and requires at least iOS 15+.
+    description                           : The app supports both iPhone and iPad, and requires at least iOS 15+.
     fontawesome_icon_name                 : tablet-alt
 
 
