@@ -36,28 +36,40 @@ youtube_username                          :
 features                                  :
 
   - title                                 : User-friendly UI
-    description                           : Nice and simple interface, supporting light and dark modes
+    description                           : Easy to use, convenient user interface, supporting light and dark modes.
     fontawesome_icon_name                 : magic
 
   - title                                 : MPD server state
-    description                           : Manage playback, outputs, volume and shuffle & repeat modes
+    description                           : Manage playback, volume and shuffle & repeat modes. Seek to selected position of currently playing song.
     fontawesome_icon_name                 : play
 
-  - title                                 : Local playback
-    description                           : Play streaming MPD outputs on your device within the app
-    fontawesome_icon_name                 : headphones
-
   - title                                 : Queue
-    description                           : Add, move and remove items from the current playback queue
+    description                           : Add, move and remove items from the current playback queue.
     fontawesome_icon_name                 : list
 
   - title                                 : Music Library
-    description                           : Browse files library and enqueue songs, folders or stored playlists
+    description                           : Browse files library and enqueue songs, folders or stored playlists.
     fontawesome_icon_name                 : compact-disc
 
   - title                                 : Search
-    description                           : Find songs in your MPD collection
+    description                           : Quickly find songs in your MPD collection.
     fontawesome_icon_name                 : search
+
+  - title                                 : Local playback
+    description                           : Play streaming MPD outputs locally on your speakers, bluetooth headphones or AirPlay devices.
+    fontawesome_icon_name                 : headphones
+
+  - title                                 : Easy configuration
+    description                           : Connect to automatially discovered MPD servers in your local network using Bonjour protocol.
+    fontawesome_icon_name                 : wifi
+
+  - title                                 : Multiple connections
+    description                           : Store credentials to multiple servers and connect with selected one.
+    fontawesome_icon_name                 : network-wired
+
+  - title                                 : Use on iPhone and iPad
+    description                           : The app supports both iPhone and iPad and requires at least iOS 15+.
+    fontawesome_icon_name                 : tablet-alt
 
 
 # Theme Settings
