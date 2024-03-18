@@ -5,7 +5,17 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.1.0 `latest`
+## Release 3.1.1 `latest`
+**Mar 18, 2024**
+
+- Display errors from server status
+- Display connection name on the connection status screen 
+- Display server MPD version after the successful connection test 
+- Accessibility improvements
+- Volume slider bug fixes 
+- iPad layout fix
+
+## Release 3.1.0 
 **Feb 29, 2024**
 
 - Song search in the MPD database
