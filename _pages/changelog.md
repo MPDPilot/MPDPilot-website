@@ -6,7 +6,7 @@ include_in_header: true
 # Change Log
 
 ## Release 3.2.0 `latest
-**Apr 30, 2024**
+**Apr 29, 2024**
 
 - Show album cover images fetched from MPD collection
 - UI theme selection (light, dark, system default)
