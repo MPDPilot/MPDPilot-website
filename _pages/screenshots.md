@@ -3,11 +3,11 @@ layout: gallery
 title: Screenshots
 include_in_header: true
 iphone_images:
-  - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-28 at 14.10.02.jpg"
-    thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-28 at 14.10.02.jpg"
+  - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-04-29 at 14.26.42.jpg"
+    thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-04-29 at 14.26.42.jpg"
     title: "Main player view (dark theme)"
-  - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-28 at 14.11.01.jpg"
-    thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-28 at 14.11.01.jpg"
+  - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-04-29 at 14.26.46.jpg"
+    thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-04-29 at 14.26.46.jpg"
     title: "Main player view (light theme)"
   - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-28 at 14.09.27.jpg"
     thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-28 at 14.09.27.jpg"
@@ -18,9 +18,9 @@ iphone_images:
   - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-28 at 14.13.38.jpg"
     thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-28 at 14.13.38.jpg"
     title: "Song search results"
-  - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.53.21.jpg"
-    thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.53.21.jpg"
-    title: "Connections list screen"
+  - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-04-29 at 14.32.56.jpg"
+    thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-04-29 at 14.32.56.jpg"
+    title: "Settings screen"
   - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.59.34.jpg"
     thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.59.34.jpg"
     title: "Connection configuration"
@@ -31,11 +31,11 @@ iphone_images:
     thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-01-24 at 13.46.16.jpg"
     title: "Outputs management screen"
 ipad_images:
-  - path: "app/ipad/main/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-02-28 at 21.20.12.jpg"
-    thumb: "app/ipad/thumb/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-02-28 at 21.20.12.jpg"
+  - path: "app/ipad/main/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-04-29 at 14.37.24.jpg"
+    thumb: "app/ipad/thumb/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-04-29 at 14.37.24.jpg"
     title: "Main player view (dark theme)"
-  - path: "app/ipad/main/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-02-28 at 21.20.40.jpg"
-    thumb: "app/ipad/thumb/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-02-28 at 21.20.40.jpg"
+  - path: "app/ipad/main/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-04-29 at 14.37.22.jpg"
+    thumb: "app/ipad/thumb/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-04-29 at 14.37.22.jpg"
     title: "Main player view (light theme)"
   - path: "app/ipad/main/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-02-28 at 21.19.39.jpg"
     thumb: "app/ipad/thumb/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-02-28 at 21.19.39.jpg"
@@ -46,5 +46,8 @@ ipad_images:
   - path: "app/ipad/main/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-02-28 at 21.15.49.jpg"
     thumb: "app/ipad/thumb/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-02-28 at 21.15.49.jpg"
     title: "Song search results"
+  - path: "app/ipad/main/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-04-29 at 14.35.40.jpg"
+    thumb: "app/ipad/thumb/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2024-04-29 at 14.35.40.jpg"
+    title: "Settings screen"
 ---
 
