@@ -5,7 +5,16 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.1.1 `latest`
+## Release 3.2.0 `latest
+**Apr 29, 2024**
+
+- Show album cover images fetched from MPD collection
+- UI theme selection (light, dark, system default)
+- Support for `tagtypes` MPD commands in order to reduce network traffic
+- Locate found song within its library folder
+- Significant navigation redesign and other UI improvements
+
+## Release 3.1.1
 **Mar 18, 2024**
 
 - Display errors from server status
