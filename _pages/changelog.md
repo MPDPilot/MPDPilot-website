@@ -5,7 +5,7 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.2.0 `latest
+## Release 3.2.0 `latest`
 **Apr 29, 2024**
 
 - Show album cover images fetched from MPD collection
