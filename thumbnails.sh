@@ -25,10 +25,10 @@ for file in "$input_dir"/*.png; do
     filename=$(basename "$file" .png)
 
     # Convert png image to jpg with specified compression rate and store in main subdirectory of output directory
-    convert -quality 85 "$file" "$output_dir/main/$filename.jpg"
+    magick convert -quality 85 "$file" "$output_dir/main/$filename.jpg" 2>/dev/null
 
     # Convert png image to thumbnail jpg with specified compression rate and store in thumb subdirectory of output directory
-    convert -quality 95 -resize "200x>" "$file" "$output_dir/thumb/$filename.jpg"
+    magick convert -quality 95 -resize "200x>" "$file" "$output_dir/thumb/$filename.jpg" 2>/dev/null
 
     # Output yaml structure to stdout
     echo " - path: \"$output_dir/main/$filename.jpg\""
