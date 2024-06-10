@@ -6,7 +6,7 @@ include_in_header: true
 # Change Log
 
 ## Release 3.3.0 `latest`
-**Jun 11, 2024**
+**Jun 10, 2024**
 
 - cover art support in library, queue and search results
 - consume and single playback modes control
