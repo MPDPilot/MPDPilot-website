@@ -11,12 +11,13 @@ include_in_header: true
 - cover art support in library, queue and search results
 - consume and single playback modes control
 - in-app donations with Apple Pay
-- more robust MPD connection maintenance (faster initial sequence, eliminated known race condition)
-- drag-n-drop reordering on connections and local playback streams list on iOS 16+ 
+- more robust server connection maintenance (faster initial sequence, eliminated known race condition)
+- drag-n-drop reordering on connections and local playback streams list (iOS 16+ only) 
 - improved support for parsing DSD song quality information
 - improved MPD protocol compatibility (which bug fixed 00:00 track lengths in Mopidy)
 - introduced limit for recursive directories traversal when adding the whole folder to a queue
 - a number of other UI/UX improvements and bug fixes
+
 
 ## Release 3.2.1 `latest`
 **May 01, 2024**
