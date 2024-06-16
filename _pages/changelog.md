@@ -5,7 +5,13 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.3.0 `latest`
+## Release 3.3.1 `latest`
+**Jun 16, 2024**
+
+- accessibility improvements
+- UI layout improvements
+
+## Release 3.3.0
 **Jun 10, 2024**
 
 - cover art support in library, queue and search results
@@ -17,7 +23,6 @@ include_in_header: true
 - improved MPD protocol compatibility (which bug fixed 00:00 track lengths in Mopidy)
 - introduced limit for recursive directories traversal when adding the whole folder to a queue
 - a number of other UI/UX improvements and bug fixes
-
 
 ## Release 3.2.1 `latest`
 **May 01, 2024**
