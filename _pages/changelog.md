@@ -6,7 +6,7 @@ include_in_header: true
 # Change Log
 
 ## Release 3.4.0 `latest`
-**Jun 22, 2024**
+**Jun 23, 2024**
 
 - Changed local playback backend to libmpv, resulting with improved buffering stability and status reporting reliability
 - Improved discovery of local-network MPD servers with Bonjour
