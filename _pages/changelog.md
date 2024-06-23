@@ -5,24 +5,34 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.3.1 `latest`
+## Release 3.4.0 `latest`
+**Jun 23, 2024**
+
+- Changed local playback backend to libmpv, resulting with improved buffering stability and status reporting reliability
+- Improved discovery of local-network MPD servers with Bonjour
+- Faster loading of album cover arts from MPD server
+- More graceful behavior on network handover
+- More descriptive error message in case of missing server permissions
+- Various other bug fixes and stability improvements
+
+## Release 3.3.1
 **Jun 16, 2024**
 
-- accessibility improvements
+- Accessibility improvements
 - UI layout improvements
 
 ## Release 3.3.0
 **Jun 10, 2024**
 
-- cover art support in library, queue and search results
-- consume and single playback modes control
-- in-app donations with Apple Pay
-- more robust server connection maintenance (faster initial sequence, eliminated known race condition)
-- drag-n-drop reordering on connections and local playback streams list (iOS 16+ only) 
-- improved support for parsing DSD song quality information
-- improved MPD protocol compatibility (which bug fixed 00:00 track lengths in Mopidy)
-- introduced limit for recursive directories traversal when adding the whole folder to a queue
-- a number of other UI/UX improvements and bug fixes
+- Cover art support in library, queue and search results
+- Consume and single playback modes control
+- In-app donations with Apple Pay
+- More robust server connection maintenance (faster initial sequence, eliminated known race condition)
+- Drag-n-drop reordering on connections and local playback streams list (iOS 16+ only) 
+- Improved support for parsing DSD song quality information
+- Improved MPD protocol compatibility (which bug fixed 00:00 track lengths in Mopidy)
+- Introduced limit for recursive directories traversal when adding the whole folder to a queue
+- A number of other UI/UX improvements and bug fixes
 
 ## Release 3.2.1 `latest`
 **May 01, 2024**
