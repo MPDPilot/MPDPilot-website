@@ -3,7 +3,7 @@
 # requires imagemagick installed!
 # example usage to regenerate screenshots:
 # ./thumbnails.sh "./assets/screenshots/orig/iPhone 15 Pro Max" "./assets/screenshots/app/iphone"
-# ./thumbnails.sh "./assets/screenshots/orig/iPad Pro (6th)" "./assets/screenshots/app/ipad"
+# ./thumbnails.sh "./assets/screenshots/orig/iPad Pro 13-inch (M4)" "./assets/screenshots/app/ipad"
 
 # Check if the correct number of arguments are provided
 if [ "$#" -ne 2 ]; then
