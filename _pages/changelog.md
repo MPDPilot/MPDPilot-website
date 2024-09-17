@@ -5,7 +5,14 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.4.0 `latest`
+## Release 3.5.0 `latest`
+**Sep 17, 2024**
+
+- Added support for MPD stored playlists management
+- Incremental queue updates
+- Improved support for seeking with legacy MPD versions (pre 0.17.0)
+
+## Release 3.4.0
 **Jun 23, 2024**
 
 - Changed local playback backend to libmpv, resulting with improved buffering stability and status reporting reliability
