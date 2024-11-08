@@ -5,7 +5,18 @@ include_in_header: true
 ---
 # Change Log
 
-## Release 3.5.0 `latest`
+## Release 3.6.0 `latest`
+**Nov 9, 2024**
+
+- Revamped local playback UI for more seamless control.
+- Fetching album cover art from external sources based on song metadata.
+- Notifications for song changes.
+- Automatic restart of local playback after network errors or handovers.
+- Password prompt displayed instead of connection error when lacking permissions.
+- Troubleshooting suggestions provided when the app can't connect to the MPD server.
+- Various bug fixes, with minor UI and accessibility enhancements.
+
+## Release 3.5.0
 **Sep 17, 2024**
 
 - Added support for MPD stored playlists management
