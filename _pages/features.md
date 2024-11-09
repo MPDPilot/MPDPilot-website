@@ -3,6 +3,7 @@ layout: features
 title: Features
 include_in_header: true
 header_order: 1
+include_in_footer: false
 ---
 
 MPD Pilot brings you the ultimate Music Player Daemon (MPD) control experience, combining powerful features with an easy-to-navigate interface. Whether you’re managing extensive playlists or simply queuing up a few favorites, MPD Pilot offers seamless control with a visually pleasing design that supports both light and dark modes. Enjoy a streamlined experience that’s designed to complement your music journey from start to finish.

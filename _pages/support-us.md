@@ -2,6 +2,7 @@
 layout: page
 title: Support Us
 include_in_header: false
+include_in_footer: false
 ---
 
 # Support MPDPilot development

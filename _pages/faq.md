@@ -3,6 +3,7 @@ layout: page
 title: F.A.Q.
 include_in_header: true
 header_order: 3
+include_in_footer: false
 ---
 # Frequently Asked Questions
 
