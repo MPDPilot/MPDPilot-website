@@ -2,6 +2,7 @@
 layout: page
 title: Change Log
 include_in_header: true
+header_order: 2
 ---
 # Change Log
 

@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Screenshots
-include_in_header: true
+include_in_header: false
 iphone_images:
   - path: "app/iphone/main/Simulator Screenshot - iPhone 15 Pro Max - 2024-06-10 at 18.00.31.jpg"
     thumb: "app/iphone/thumb/Simulator Screenshot - iPhone 15 Pro Max - 2024-06-10 at 18.00.31.jpg"

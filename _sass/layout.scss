@@ -694,5 +694,14 @@ footer {
 }
 
 .headerName > a {
-    color: #000;
+    color: #fff;
+    mix-blend-mode: difference;
+}
+
+.features-container {
+    grid-area: 2 / 1 / c-end / c-end;
+    background-color: #fff;
+    border-radius: 15px; /* Adjust this value for more or less rounding */
+    padding: 20px;      /* Optional: Add padding for content inside */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for depth */
 }

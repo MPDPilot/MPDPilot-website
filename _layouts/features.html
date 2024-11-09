@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<style type="text/css">
+    #features img {
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 8px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+        max-width: 160px;
+    }
+
+    #features img.img-r {
+        margin: 0.4em 0.4em 1.2em 2em;
+        float: right;        
+    }
+
+    #features img.img-l {
+        margin: 0.4em 2em 1.2em 0.4em;
+        float: left;
+    }
+</style>
+
+<body>
+    <div class="imageWrapper">
+        <div class="headerBackground">
+            <div class="container">
+                {% include header.html %}
+
+                <div class="page features-container markdown-body" id="features">
+                    {{ content }}
+                </div>
+
+                {% include footer.html %}
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var lightbox = new PhotoSwipeLightbox({
+            gallery: '#features',
+            children: 'a',
+            showHideAnimationType: 'fade',
+            bgOpacity: 0.95,
+            pswpModule: PhotoSwipe
+        });
+        var captionPlugin = new PhotoSwipeDynamicCaption(lightbox, {
+            type: 'auto',
+        });
+        lightbox.init();
+    </script>
+</body>
+</html>
