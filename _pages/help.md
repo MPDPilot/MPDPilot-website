@@ -1,11 +1,11 @@
 ---
 layout: page
-title: F.A.Q.
+title: Help Center
 include_in_header: true
 header_order: 3
 include_in_footer: false
 ---
-# Frequently Asked Questions
+# Help Center
 
 ## Table of Contents
 0. <a href="#question-1-what-is-lorem-ipsum" target="_self">Visit Example</a>
