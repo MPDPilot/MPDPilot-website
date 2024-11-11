@@ -694,5 +694,25 @@ footer {
 }
 
 .headerName > a {
-    color: #000;
+    color: #fff;
+    mix-blend-mode: difference;
+}
+
+.features-container {
+    grid-area: 2 / 2 / c-end / 12;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 4.6em;
+    box-shadow: 0 0 22px rgba(0, 0, 0, 0.35);
+}
+
+@media only screen and (max-width: 768px) {
+	.features-container {
+		grid-area: 2 / 1 / c-end / c-end;
+		padding: 1.6em;
+	}
+}
+
+.clr {
+	clear: both;
 }
