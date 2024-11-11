@@ -69,7 +69,7 @@ Additionally, you can enable notifications for song changes, so you’re always 
 </a>
 
 MPD Pilot makes it easy to navigate your music library.
-With a familiar remote folders browser, you can explore through your collections effortlessly and locate specific songs or albums with advanced search options.
+With a familiar remote folders browser, you can explore through your collections effortlessly and locate specific songs or albums with the search function.
 The app also supports stored playlist management, letting you create and arrange playlists right within the app.
 
 Album cover art is displayed from your MPD collections or fetched from third-party sources, adding a visual touch to your library browsing.
@@ -85,7 +85,7 @@ This organized approach means you spend less time scrolling and more time enjoyi
 </a>
 
 One of MPD Pilot's standout features is its ability to play music directly on your iOS device.
-Whether you're at home or on the go, the app lets you enjoy your music without needing external speakers or devices.
+Whether you're at home or on the go, enjoy your music collection.
 
 The app supports a wide range of formats, including FLAC, MP3, OPUS, and Vorbis, ensuring high-quality playback on your device.
 Additionally, you can stream to AirPlay or Bluetooth devices, making it easy to enjoy your music on speakers, headphones, or any compatible device.
