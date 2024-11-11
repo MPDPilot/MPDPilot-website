@@ -8,7 +8,7 @@ include_in_footer: false
 # Change Log
 
 ## Release 3.6.0 `latest`
-**Nov 10, 2024**
+**Nov 11, 2024**
 
 - Revamped local playback UI for more seamless control.
 - Fetching album cover art from external sources based on song metadata.
