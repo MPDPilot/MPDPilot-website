@@ -708,6 +708,7 @@ footer {
 
 @media only screen and (max-width: 768px) {
 	.features-container {
+		grid-area: 2 / 1 / c-end / c-end;
 		padding: 1.6em;
 	}
 }
