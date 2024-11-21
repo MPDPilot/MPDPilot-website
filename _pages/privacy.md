@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_nomenu
 title: Privacy Policy
 include_in_header: false
 include_in_footer: true

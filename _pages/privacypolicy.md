@@ -5,4 +5,4 @@ include_in_header: false
 include_in_footer: false
 ---
 
-Moved [here](/privacy).
+Moved <a href="/privacy" target="_self">here</a>.
