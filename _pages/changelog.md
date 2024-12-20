@@ -7,7 +7,7 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.7.0 `latest
+## Release 3.7.0 `latest`
 **Dec 20, 2024**
 
 - Queue items grouping into sections
