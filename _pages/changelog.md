@@ -7,7 +7,14 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.6.1 `latest`
+## Release 3.7.0 `latest
+**Dec 20, 2024**
+
+- Queue items grouping into sections
+- Improved cover art cache management
+- Faster status update from server after player-related commands
+
+## Release 3.6.1
 **Nov 21, 2024**
 
 - Bug fixes and stability improvements
