@@ -7,7 +7,15 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.7.0 `latest`
+## Release 3.7.1 `latest`
+**Jan 5, 2025**
+
+- Enhanced UI scrolling performance on the queue screen
+- Resolved issue of doubled song removal from the queue
+- Significantly accelerated loading speed for large server responses
+- Local playback improvements in background mode
+
+## Release 3.7.0
 **Dec 20, 2024**
 
 - Queue items grouping into sections
