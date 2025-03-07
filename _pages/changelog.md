@@ -7,7 +7,15 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.7.1 `latest`
+## Release 3.7.2 `latest`
+**Mar 7, 2025**
+
+- Fixed bug which occasionally made queue view stuck in loading
+- Various small UI improvements
+- Load stored playlists metadata only when visited playlists view for the first time (not on every connection)
+- More transparency about external cover art providers
+
+## Release 3.7.1
 **Jan 5, 2025**
 
 - Enhanced UI scrolling performance on the queue screen
