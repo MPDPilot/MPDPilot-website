@@ -7,7 +7,17 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.7.2 `latest`
+## Release 3.8.0 `latest`
+**Apr 30, 2025**
+
+- Added collection view with artist and album browser
+- New Track Info screen for detailed song insights
+- Integrated Discogs API as a new cover art provider
+- Improved reliability when fetching cover art
+- Updated UI themes with various usability enhancements
+- Fixed an issue with local playback status reporting
+
+## Release 3.7.2
 **Mar 7, 2025**
 
 - Fixed bug which occasionally made queue view stuck in loading
@@ -82,7 +92,7 @@ include_in_footer: false
 - Introduced limit for recursive directories traversal when adding the whole folder to a queue
 - A number of other UI/UX improvements and bug fixes
 
-## Release 3.2.1 `latest`
+## Release 3.2.1
 **May 01, 2024**
 
 Bug fixing connection to older MPD versions.
