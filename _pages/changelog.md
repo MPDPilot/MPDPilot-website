@@ -7,7 +7,7 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.8.0 `latest`
+## Release 3.8.1 `latest`
 **May 10, 2025**
 
 - Sharing track info (iOS 16+ only)
