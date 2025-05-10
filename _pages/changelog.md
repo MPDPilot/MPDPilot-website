@@ -8,6 +8,13 @@ include_in_footer: false
 # Change Log
 
 ## Release 3.8.0 `latest`
+**May 10, 2025**
+
+- Sharing track info (iOS 16+ only)
+- Saving last visited library tab
+- Various minor UI improvements
+
+## Release 3.8.0
 **Apr 30, 2025**
 
 - Added collection view with artist and album browser
