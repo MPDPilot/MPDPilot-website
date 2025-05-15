@@ -69,12 +69,12 @@ Additionally, you can enable notifications for song changes, so you’re always 
 </a>
 
 MPD Pilot makes it easy to navigate your music library.
-With a familiar remote folders browser, you can explore through your collections effortlessly and locate specific songs or albums with the search function.
-The app also supports stored playlist management, letting you create and arrange playlists right within the app.
 
-Album cover art is displayed from your MPD collections or fetched from third-party sources, adding a visual touch to your library browsing.
+With a familiar remote folders browser, you can effortlessly explore your collections. New artist and album views provide a more intuitive way to browse your library. Album cover art is displayed from your MPD collections or fetched from third-party sources, adding a visual touch to your library browsing.
 
-This organized approach means you spend less time scrolling and more time enjoying your music.
+Use the built-in search function to quickly find specific songs, albums, or artists. Manage your stored playlists right in the app: create, arrange, and revisit them anytime.
+
+This organized and visual approach means less time scrolling—and more time enjoying your music.
 
 <div class="clr"></div>
 
@@ -105,10 +105,19 @@ Note that MPD Pilot requires iOS 15.0 or higher.
 <a href="/assets/screenshots/app/main/Simulator Screenshot - iPad Pro 13-inch (M4) - 2024-11-07 at 15.43.02.jpg" data-pswp-width="2064" data-pswp-height="2752" target="_blank" class="screenshot">
     <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPad Pro 13-inch (M4) - 2024-11-07 at 15.43.02.jpg" alt="Main player screen on iPad" class="i" />
 </a>
+<a href="/assets/screenshots/app/main/Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-05-15 at 18.12.06.jpg" data-pswp-width="2064" data-pswp-height="2752" target="_blank" class="screenshot">
+    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-05-15 at 18.12.06.jpg" alt="iPad interface with light theme" class="i" />
+</a>
 <a href="/assets/screenshots/app/main/Simulator Screenshot - iPad Pro 13-inch (M4) - 2024-11-07 at 15.44.52.jpg" data-pswp-width="2064" data-pswp-height="2752" target="_blank" class="screenshot">
     <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPad Pro 13-inch (M4) - 2024-11-07 at 15.44.52.jpg" alt="Playback queue on iPad" class="i" />
 </a>
+<a href="/assets/screenshots/app/main/Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-05-15 at 18.11.23.jpg" data-pswp-width="2064" data-pswp-height="2752" target="_blank" class="screenshot">
+    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-05-15 at 18.11.23.jpg" alt="Album view on iPad" class="i" />
+</a>
 <a href="/assets/screenshots/app/main/Simulator Screenshot - iPad Pro 13-inch (M4) - 2024-11-07 at 15.45.49.jpg" data-pswp-width="2064" data-pswp-height="2752" target="_blank" class="screenshot">
     <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPad Pro 13-inch (M4) - 2024-11-07 at 15.45.49.jpg" alt="Song search on iPad" class="i" />
+</a>
+<a href="/assets/screenshots/app/main/Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-05-15 at 18.11.39.jpg" data-pswp-width="2064" data-pswp-height="2752" target="_blank" class="screenshot">
+    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-05-15 at 18.11.39.jpg" alt="Local playback info" class="i" />
 </a>
 
