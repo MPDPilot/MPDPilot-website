@@ -7,7 +7,12 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.8.1 `latest`
+## Release 3.8.2 `latest`
+**May 16, 2025**
+
+- Fixed bug with missing playlist files (e.g. m3u) in the Folders pane
+
+## Release 3.8.1
 **May 10, 2025**
 
 - Sharing track info (iOS 16+ only)
