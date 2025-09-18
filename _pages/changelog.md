@@ -7,7 +7,13 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.8.2 `latest`
+## Release 3.8.3 `latest`
+**Sep 18, 2025**
+
+- Fixed occasional issues with Premium Subscription refresh
+- Enhanced compatibility with iOS 26 and the Liquid Glass theme
+
+## Release 3.8.2
 **May 16, 2025**
 
 - Fixed bug with missing playlist files (e.g. m3u) in the Folders pane
