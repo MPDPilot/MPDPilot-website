@@ -7,7 +7,12 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.8.3 `latest`
+## Release 3.8.4 `latest`
+**Sep 28, 2025**
+
+- Enhanced connection reliability with better idle mode support
+
+## Release 3.8.3
 **Sep 18, 2025**
 
 - Fixed occasional issues with Premium Subscription refresh
