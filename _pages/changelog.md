@@ -7,7 +7,14 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.8.4 `latest`
+## Release 3.8.5 `latest`
+**Oct 30, 2025**
+
+- Fixed an issue that could cause the app to get stuck in the “Connecting” state
+- Resolved several other connection establishment problems
+- Minor UI improvements
+
+## Release 3.8.4
 **Sep 28, 2025**
 
 - Enhanced connection reliability with better idle mode support
