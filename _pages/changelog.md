@@ -7,7 +7,20 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.8.5 `latest`
+## Release 3.9.0 `latest`
+**Mar 14, 2026**
+
+- App now available in 12 languages
+- Refreshed app icon
+- Automatic reconnection to the server after disconnects
+- Introduced toolbar buttons for commonly used player actions
+- Added Play and Enqueue buttons for albums and tracks
+- Enhanced responsiveness of local playback controls
+- Added elapsed time reporting and seek support in lock screen now playing info
+- Fixed issues with the volume slider on iOS 26
+- Various minor UI enhancements
+
+## Release 3.8.5
 **Oct 30, 2025**
 
 - Fixed an issue that could cause the app to get stuck in the “Connecting” state
