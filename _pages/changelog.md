@@ -7,7 +7,12 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.9.1 `latest`
+## Release 3.9.2 `latest`
+**Apr 3, 2026**
+
+- Bug fixes and app responsiveness improvements
+
+## Release 3.9.1
 **Mar 28, 2026**
 
 - Experimental support for Snapcast local playback
