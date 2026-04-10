@@ -1,0 +1,27 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="subPageBody">
+    <div class="headerBackground subPageHeaderBackground">
+        <div class="container subPageContainer">
+            {% include header.html %}
+            <article class="page markdown-body">
+                <p><a href="{{ '/help/' | relative_url }}" target="_self">Help Center</a></p>
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+                {% include help_toc.html current_url=page.url %}
+                {% include help_support.html %}
+            </article>
+            {% include footer.html %}
+        </div>
+        {% include appstoreimages.html %}
+    </div>
+</body>
+
+</html>

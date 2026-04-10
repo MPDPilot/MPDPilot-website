@@ -6,25 +6,24 @@ header_order: 1
 include_in_footer: false
 ---
 
-MPD Pilot is designed to bring seamless MPD server control to your device with ease, efficiency, and flexibility.
-It's perfect for music lovers who enjoy high-quality sound and appreciate a simple, intuitive interface.
-The app is available in 12 languages.
-Read on to discover the features that make MPD Pilot a great companion for your MPD server.
+MPD Pilot brings MPD control to Apple devices in a way that feels clean, practical, and comfortable to use every day.
+It is built for people who want quick access to their music library, reliable playback control, and support for MPD-based setups.
+It fits especially well with self-hosted music libraries, hi-fi systems, and multi-room listening at home.
+Below is a closer look at the features that make MPD Pilot a useful companion for your MPD server.
 
-# Intuitive User Interface
+# Clear, Accessible Interface
 
 <a href="/assets/screenshots/app/main/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-05 at 17.32.38.jpg" data-pswp-width="1320" data-pswp-height="2868" target="_blank" class="screenshot">
-    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-05 at 17.32.38.jpg" alt="Main player screen providing all the basic controls of you MPD playback" class="r" />
+    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-05 at 17.32.38.jpg" alt="Main player screen with the core MPD playback controls" class="r" />
 </a>
 
-MPD Pilot’s interface is crafted for simplicity and ease of use, making it a pleasure to navigate.
-Designed with accessibility in mind, it includes both light and dark themes.
-Every control is placed thoughtfully to ensure easy access without clutter.
+MPD Pilot’s interface is designed to stay clear and approachable, whether you are browsing your library or adjusting playback.
+It supports both light and dark themes, puts accessibility first, and is currently available in 12 languages.
 
-Whether you’re browsing your music collection or adjusting playback settings, the app offers a friendly, well-organized layout.
-Icons and text are clearly displayed, with responsive controls that react instantly to your touch.
+The layout is organized to keep common actions close at hand, without crowding the screen.
+Text and controls are easy to read, and the app is comfortable to use for longer listening sessions.
 
-MPD Pilot is built to be straightforward so you can focus on what matters — your music.
+The goal is simple: less friction between you and your music.
 
 <div class="clr"></div>
 
@@ -34,73 +33,73 @@ MPD Pilot is built to be straightforward so you can focus on what matters — yo
     <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-11 at 12.09.31.jpg" alt="Easily connect to your MPD servers in local network with Bonjour discovery" class="r" />
 </a>
 
-Getting started with MPD Pilot is a breeze, even if you’re not a tech expert.
-The app uses Bonjour to automatically discover any MPD servers on your local network, so you don’t have to worry about complicated setup steps. Just open the app, and MPD Pilot will detect available servers, allowing you to connect and control your music quickly.
+MPD Pilot keeps setup straightforward.
+The app uses Bonjour to discover MPD servers on your local network automatically, so getting started usually takes only a few taps.
 
-MPD Pilot can connect not only to MPD servers but also to popular solutions based on MPD, including [Mopidy](https://mopidy.com) (with [MPD extension](https://github.com/mopidy/mopidy-mpd)), [Volumio](https://volumio.org), [MoOde Audio](https://moodeaudio.org), [Bryston](https://bryston.com), and [Chord Poly](https://chordelectronics.co.uk/product/poly). This compatibility makes it versatile for use with a range of MPD-based audio systems.
+It can connect not only to MPD servers, but also to popular MPD-based solutions such as [Mopidy](https://mopidy.com) (with [MPD extension](https://github.com/mopidy/mopidy-mpd)), [OwnTone](https://owntone.github.io/owntone-server/), [Volumio](https://volumio.org), [MoOde Audio](https://moodeaudio.org), [Bryston](https://bryston.com), and [Chord Poly](https://chordelectronics.co.uk/product/poly).
 
-If you’re running multiple servers, MPD Pilot lets you switch between them without hassle. This simple setup process makes it easy for you to enjoy your music library without the fuss of manual configuration.
+If you use more than one server, MPD Pilot lets you save multiple connections and switch between them easily.
 
 <div class="clr"></div>
 
-# Control Playback with Ease
+# Playback Controls
 
 <a href="/assets/screenshots/app/main/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-08 at 16.58.35.jpg" data-pswp-width="1320" data-pswp-height="2868" target="_blank" class="screenshot">
     <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-08 at 16.58.35.jpg" alt="MPD Outputs management screen" class="r" />
 </a>
 
-With MPD Pilot, managing playback is purely a pleasure. The app includes all essential playback controls:
+MPD Pilot includes the playback controls you expect:
 
 - Play, pause, and stop your music, skip forward and back
 - Control volume smoothly
 - Manage MPD outputs
 
-It also supports advanced MPD modes, such as repeat, shuffle, consume, and single mode.
-You can adjust these settings as needed to customize your listening experience.
-These controls are easily accessible, making it simple to manage your music in any way you prefer.
+It also supports advanced MPD modes such as repeat, shuffle, consume, and single mode.
+These settings are easy to reach when you need them, without overwhelming the main playback screen.
 
-Additionally, you can enable notifications for song changes, so you’re always in tune with what’s playing, even when using other apps.
+You can also enable notifications for song changes, so it is easy to keep track of what is playing even while using other apps.
 
 <div class="clr"></div>
 
 # Music Library Management
 
 <a href="/assets/screenshots/app/main/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-07 at 14.48.29.jpg" data-pswp-width="1320" data-pswp-height="2868" target="_blank" class="screenshot">
-    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-07 at 14.48.29.jpg" alt="MPD collection browser" class="r" />
+    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-07 at 14.48.29.jpg" alt="Library browser showing the MPD music collection" class="r" />
 </a>
 
-MPD Pilot makes it easy to navigate your music library.
+MPD Pilot gives you several ways to move through your library.
 
-With a familiar remote folders browser, you can effortlessly explore your collections. New artist and album views provide a more intuitive way to browse your library. Album cover art is displayed from your MPD collections or fetched from third-party sources, adding a visual touch to your library browsing.
+Use the familiar folder browser, or switch to artist and album views when that fits your collection better.
+Album cover art can be displayed from your MPD collection or fetched from third-party sources.
 
-Use the built-in search function to quickly find specific songs, albums, or artists. Manage your stored playlists right in the app: create, arrange, and revisit them anytime.
-
-This organized and visual approach means less time scrolling—and more time enjoying your music.
+The built-in search helps you find songs, albums, and artists quickly.
+You can also manage stored playlists directly in the app and come back to them whenever you like.
 
 <div class="clr"></div>
 
 # Local Playback on Device
 
 <a href="/assets/screenshots/app/main/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-05 at 15.59.15.jpg" data-pswp-width="1320" data-pswp-height="2868" target="_blank" class="screenshot">
-    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-05 at 15.59.15.jpg" alt="Playing music stream on device utilizing HTTP streaming" class="r" />
+    <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPhone 16 Pro Max - 2024-11-05 at 15.59.15.jpg" alt="Local playback screen playing a music stream on the device" class="r" />
 </a>
 
-One of MPD Pilot's standout features is its ability to play music directly on your iOS device.
-Whether you're at home or on the go, enjoy your music collection.
+MPD Pilot can play music directly on your iOS device, so it can work not only as a controller but also as a local playback client.
 
-The app supports a wide range of formats, including FLAC, MP3, OPUS, and Vorbis, ensuring high-quality playback on your device.
-It also includes Snapcast local playback support in addition to regular HTTP streams.
-Additionally, you can stream to AirPlay or Bluetooth devices, making it easy to enjoy your music on speakers, headphones, or any compatible device.
+You can choose where that audio goes. Listen on your iPhone or iPad, send it to AirPlay speakers at home, switch to Bluetooth headphones when you head out, or use CarPlay while driving. That makes it possible to take the same music from your home MPD setup into everyday situations such as commuting, traveling, or listening at the gym.
 
-MPD Pilot integrates seamlessly with iOS’s Now Playing Info, so you can control playback and see track details on the lock screen, making it convenient to manage your music without unlocking your device.
+The app supports a wide range of formats, including FLAC, MP3, OPUS, and Vorbis. It also supports regular HTTP streams as well as [Snapcast](https://github.com/snapcast/snapcast) local playback for synchronous multi-room audio setups.
+
+Background playback is well supported, and MPD Pilot also works with remote media controls such as play, pause, next, and previous. Track details and playback controls remain available through iOS’s Now Playing screen, including on the lock screen.
 
 <div class="clr"></div>
 
 # Support for Multiple Devices
 
-While MPD Pilot was initially designed for iPhone, it also offers experimental support for iPad, macOS, and even visionOS. This flexibility allows you to use the app across multiple Apple devices, providing a consistent music control experience on whichever device you prefer.
+While MPD Pilot was originally designed for iPhone, it also supports iPad, macOS, and visionOS.
+That makes it possible to use the app across multiple Apple devices while keeping a familiar experience.
 
-As support for iPad, macOS, and visionOS is still evolving, you may experience some limitations on these platforms. However, we are committed to continuous improvements, so expect even better support in future updates.
+Support for iPad, macOS, and visionOS is still being refined, so some parts of the experience may feel more complete on iPhone today.
+Even so, these platforms are already useful and continue to improve.
 
 Note that MPD Pilot requires iOS 15.0 or higher.
 
@@ -122,4 +121,3 @@ Note that MPD Pilot requires iOS 15.0 or higher.
 <a href="/assets/screenshots/app/main/Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-05-15 at 18.11.39.jpg" data-pswp-width="2064" data-pswp-height="2752" target="_blank" class="screenshot">
     <img src="/assets/screenshots/app/thumb/Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-05-15 at 18.11.39.jpg" alt="Local playback info" class="i" />
 </a>
-

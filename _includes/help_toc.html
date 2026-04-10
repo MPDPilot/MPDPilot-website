@@ -1,0 +1,19 @@
+{% assign sorted_pages = site.pages | sort: "help_topic_order" %}
+<h2>Help Topics</h2>
+<ol>
+{% for help_page in sorted_pages %}
+    {% if help_page.help_topic == true %}
+    <li>
+        {% if include.current_url == help_page.url %}
+        <strong>{{ help_page.title }}</strong>
+        {% else %}
+        <a href="{{ help_page.url | relative_url }}" target="_self">{{ help_page.title }}</a>
+        {% endif %}
+        {% if help_page.help_topic_description %}
+        <br>
+        <span>{{ help_page.help_topic_description }}</span>
+        {% endif %}
+    </li>
+    {% endif %}
+{% endfor %}
+</ol>
