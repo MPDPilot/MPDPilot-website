@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
 - title: Beautiful, Accessible Interface
-  description: MPD Pilot offers a clean, accessible design, with support for light and dark modes. Effortless to navigate, it's designed with both casual and advanced users in mind.
+  description: MPD Pilot offers a clean, accessible design, with support for light and dark modes. Effortless to navigate, it's designed with both casual and advanced users in mind. Available in 12 languages.
   fontawesome_icon_name: "paint-brush"
 
 - title: Effortless Setup
@@ -48,7 +48,7 @@ features                                  :
   fontawesome_icon_name: folder-open
 
 - title: Flexible Playback Options
-  description: Play music directly on your device or send it to AirPlay and Bluetooth speakers. Suports popular formats like FLAC, MP3, and more, for a seamless listening experience.
+  description: Play music directly on your device or send it to AirPlay and Bluetooth speakers. Supports regular HTTP streams plus Snapcast local playback, with popular formats like FLAC, OPUS, MP3, and more for a seamless listening experience.
   fontawesome_icon_name: "volume-up"
 
 - title: Designed for HiFi Enthusiasts

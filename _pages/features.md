@@ -8,6 +8,7 @@ include_in_footer: false
 
 MPD Pilot is designed to bring seamless MPD server control to your device with ease, efficiency, and flexibility.
 It's perfect for music lovers who enjoy high-quality sound and appreciate a simple, intuitive interface.
+The app is available in 12 languages.
 Read on to discover the features that make MPD Pilot a great companion for your MPD server.
 
 # Intuitive User Interface
@@ -88,6 +89,7 @@ One of MPD Pilot's standout features is its ability to play music directly on yo
 Whether you're at home or on the go, enjoy your music collection.
 
 The app supports a wide range of formats, including FLAC, MP3, OPUS, and Vorbis, ensuring high-quality playback on your device.
+It also includes Snapcast local playback support in addition to regular HTTP streams.
 Additionally, you can stream to AirPlay or Bluetooth devices, making it easy to enjoy your music on speakers, headphones, or any compatible device.
 
 MPD Pilot integrates seamlessly with iOS’s Now Playing Info, so you can control playback and see track details on the lock screen, making it convenient to manage your music without unlocking your device.

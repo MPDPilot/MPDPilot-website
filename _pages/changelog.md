@@ -7,7 +7,15 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.9.2 `latest`
+## Release 3.9.3 `latest`
+**Apr 10, 2026**
+
+- Improved language translations
+- Improved Snapcast local playback compatibility, including FLAC/OPUS decoding and sample-rate conversion
+- Display local playback stream quality info
+- Bug fixes, performance and stability improvements
+
+## Release 3.9.2
 **Apr 3, 2026**
 
 - Bug fixes and app responsiveness improvements
