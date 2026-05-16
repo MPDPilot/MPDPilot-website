@@ -7,7 +7,15 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.9.3 `latest`
+## Release 3.9.4 `latest`
+**May 16, 2026**
+
+- Added option to keep local playback synchronized with the MPD playback state
+- Added All Albums view
+- Fixed queue item highlighting after playback errors
+- Fixed album contents for multi-artist albums
+
+## Release 3.9.3
 **Apr 10, 2026**
 
 - Improved language translations
