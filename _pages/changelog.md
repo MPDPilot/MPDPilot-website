@@ -7,7 +7,15 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.9.4 `latest`
+## Release 3.9.5 `latest`
+**Jun 14, 2026**
+
+- Added option to switch between list and grid layouts in Library and Search views
+- Added contextual tips to help discover useful app features
+- Various visual improvements
+- Bug fixes, performance and stability improvements
+
+## Release 3.9.4
 **May 16, 2026**
 
 - Added option to keep local playback synchronized with the MPD playback state
