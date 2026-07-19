@@ -7,7 +7,15 @@ include_in_footer: false
 ---
 # Change Log
 
-## Release 3.9.5 `latest`
+## Release 3.9.6 `latest`
+**Jul 19, 2026**
+
+- Improved playlist renaming reliability.
+- Improved selection behavior on the Search screen.
+- Clarified playback queue action labels.
+- Added quick Play and Add to Queue actions, track count, and total duration to playlist details.
+
+## Release 3.9.5
 **Jun 14, 2026**
 
 - Added option to switch between list and grid layouts in Library and Search views
